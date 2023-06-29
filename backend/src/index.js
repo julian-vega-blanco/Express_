@@ -1,6 +1,6 @@
 import app from "./app.js";
 
-app.set("port", 5000);
+app.set("port", 5502);
 
 const main = () => {
   app.listen(app.get('port'));

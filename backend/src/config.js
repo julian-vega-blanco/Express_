@@ -6,6 +6,5 @@ export default {
   host: process.env.HOST,
   database: process.env.DATABASE,
   user: process.env.USUARIO,
-  password: process.env.PASSWORD,
-  insecureAuth: true
+  password: process.env.PASSWORD
 };
